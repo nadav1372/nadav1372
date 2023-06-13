@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadav Edri</h1>
-<h3 align="center">A passionate frontend developer from Israrl</h3>
+<h3 align="center">A passionate frontend developer from Israel</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadav1372" alt="nadav1372" /></a> </p>
 
